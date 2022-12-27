@@ -4,4 +4,4 @@ MAINTAINER emaaristimuno
 
 COPY C:/Users/flaco/OneDrive/Escritorio/curso/ProyectoFinal/BackEnd/src/main/java/com/portfolio/ERL/ErlApplication.jar ErlApplication.jar
 
-ENTRYPOINT ["java","-jar","C:/Users/flaco/OneDrive/Escritorio/curso/ProyectoFinal/BackEnd/src/main/java/com/portfolio/ERL/ErlApplication.jar"]
+ENTRYPOINT ["java","-jar","/ErlApplication.jar"]
