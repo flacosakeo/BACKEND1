@@ -1,4 +1,4 @@
-FROM amazoncorretto:11-alpine-jdk
+FROM amazoncorretto:1.8-alpine-jdk
 MAINTAINER emaaristimuno
-COPY src/main/java/com/portfolio/ERL/ErlApplication.java ErlApplication.java
-ENTRYPOINT ["java","-jar","/ErlApplication.java"]
+COPY target/ERL-0.0.1-SNAPSHOT.jar ERL-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java","-jar","/ERL-0.0.1-SNAPSHOT.jar"]
