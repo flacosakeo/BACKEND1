@@ -1,6 +1,7 @@
 com\portfolio\ERL\Security\Controller\AuthController.class
 com\portfolio\ERL\Security\Service\UsuarioService.class
 com\portfolio\ERL\Servicio\ImpPersonaServicio.class
+com\portfolio\ERL\Servicio\SProyecto.class
 com\portfolio\ERL\Dto\dtoEducacion.class
 com\portfolio\ERL\Security\Dto\JwtDto.class
 com\portfolio\ERL\Security\Dto\NuevoUsuario.class
@@ -16,12 +17,16 @@ com\portfolio\ERL\Security\MainSecurity.class
 com\portfolio\ERL\Security\jwt\JwtEntryPoint.class
 com\portfolio\ERL\Security\Service\RolService.class
 com\portfolio\ERL\Security\jwt\JwtProvider.class
+com\portfolio\ERL\WebConfig.class
+com\portfolio\ERL\Entidad\Proyecto.class
 com\portfolio\ERL\Repositorio\IPersonaRepositorio.class
 com\portfolio\ERL\Controlador\Chys.class
 com\portfolio\ERL\Controlador\PersonaControlador.class
 com\portfolio\ERL\Security\Repository\iRolRepository.class
 com\portfolio\ERL\Dto\dtoHys.class
 com\portfolio\ERL\Repositorio\REducacion.class
+com\portfolio\ERL\Repositorio\RProyecto.class
+com\portfolio\ERL\Dto\dtoProyecto.class
 com\portfolio\ERL\Entidad\Persona.class
 com\portfolio\ERL\Security\Controller\Mensaje.class
 com\portfolio\ERL\Entidad\hys.class
@@ -34,6 +39,7 @@ com\portfolio\ERL\Dto\dtoExperiencia.class
 com\portfolio\ERL\Entidad\Educacion.class
 com\portfolio\ERL\Controlador\CEducacion.class
 com\portfolio\ERL\Dto\dtoPersona.class
+com\portfolio\ERL\Controlador\CProyecto.class
 com\portfolio\ERL\Entidad\Experiencia.class
 com\portfolio\ERL\Servicio\Shys.class
 com\portfolio\ERL\Servicio\SEducacion.class

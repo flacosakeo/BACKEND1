@@ -4,6 +4,7 @@ C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Service\RolService.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\jwt\JwtTokenFilter.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Entidad\Educacion.java
+C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Repositorio\RProyecto.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Entidad\Persona.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Repositorio\RExperiencia.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Entity\Usuario.java
@@ -12,9 +13,13 @@ C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Servicio\Shys.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Controller\Mensaje.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Dto\dtoPersona.java
+C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Dto\dtoProyecto.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Repositorio\Rhys.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Repository\iRolRepository.java
+C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Entidad\Proyecto.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Controlador\Chys.java
+C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Controlador\CProyecto.java
+C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Servicio\SProyecto.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Dto\LoginUsuario.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Dto\NuevoUsuario.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Controlador\CExperiencia.java
@@ -33,6 +38,7 @@ C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Dto\JwtDto.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\Service\UsuarioService.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Controlador\PersonaControlador.java
+C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\WebConfig.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Repositorio\IPersonaRepositorio.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Security\jwt\JwtEntryPoint.java
 C:\Users\flaco\OneDrive\Escritorio\curso\ProyectoFinal\BackEnd\src\main\java\com\portfolio\ERL\Dto\dtoEducacion.java
